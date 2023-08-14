@@ -13,6 +13,7 @@
 		F83A859A2A894D90005B4F75 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F83A85982A894D90005B4F75 /* Main.storyboard */; };
 		F83A859C2A894D92005B4F75 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F83A859B2A894D92005B4F75 /* Assets.xcassets */; };
 		F83A859F2A894D92005B4F75 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F83A859D2A894D92005B4F75 /* LaunchScreen.storyboard */; };
+		F83A85A72A894FFD005B4F75 /* ViewControllerGame.swift in Sources */ = {isa = PBXBuildFile; fileRef = F83A85A62A894FFD005B4F75 /* ViewControllerGame.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		F83A859B2A894D92005B4F75 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		F83A859E2A894D92005B4F75 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		F83A85A02A894D92005B4F75 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		F83A85A62A894FFD005B4F75 /* ViewControllerGame.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewControllerGame.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				F83A85922A894D90005B4F75 /* AppDelegate.swift */,
 				F83A85942A894D90005B4F75 /* SceneDelegate.swift */,
 				F83A85962A894D90005B4F75 /* ViewController.swift */,
+				F83A85A62A894FFD005B4F75 /* ViewControllerGame.swift */,
 				F83A85982A894D90005B4F75 /* Main.storyboard */,
 				F83A859B2A894D92005B4F75 /* Assets.xcassets */,
 				F83A859D2A894D92005B4F75 /* LaunchScreen.storyboard */,
@@ -138,6 +141,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				F83A85A72A894FFD005B4F75 /* ViewControllerGame.swift in Sources */,
 				F83A85972A894D90005B4F75 /* ViewController.swift in Sources */,
 				F83A85932A894D90005B4F75 /* AppDelegate.swift in Sources */,
 				F83A85952A894D90005B4F75 /* SceneDelegate.swift in Sources */,
